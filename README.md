@@ -1,3 +1,3 @@
 # sih-2
 Risk Mitigation
-Author - Prabhjot
+Author - Prabhjot singh
